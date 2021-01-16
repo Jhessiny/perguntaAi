@@ -5,11 +5,24 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link rel="stylesheet" href="/css/style.css"/>
     <link rel="stylesheet" href="/css/bootstrap.min.css" />
-    <title>Pergunta Ai!</title>
+    
+    <title>Document</title>
   </head>
   <body>
-    <img src="/img/controlxbox.png" alt="" />
-    <h1>Pergunta Ai!</h1>
+      <%- include("layout") %>
+      
+      
+<div class="container">
+    <h3>Postar pergunta</h3>
+    <form action="">
+        <label for="">Título</label>
+        <input class="form-control mb-4" type="text" placeholder="Título">
+        <label for="">Descrição</label>
+        <textarea class="form-control" placeholder="Descreva sua pergunta aqui"></textarea>
+        <button class="btn btn-primary corbtn mt-3">Perguntar</button>
+    </form>
+</div>
+
   </body>
   <script
     src="https://code.jquery.com/jquery-3.5.1.slim.min.js"

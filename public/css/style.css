@@ -1,0 +1,22 @@
+/* h1{
+    color: #01d2f7;
+}
+
+body{
+    background-color: rgb(36, 36, 36);
+    color: #ffffff;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+img{
+    width: 90px;
+} */
+
+body{
+    background-color: #252525 !important;
+    color: #ffffff !important;
+}
+ 
+.corbtn{
+    background-color: #05a7cf !important; 
+} 
