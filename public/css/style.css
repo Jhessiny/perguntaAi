@@ -22,10 +22,10 @@ body{
     color: #ffffff;
 }
 img{
-    width: 30px;
+    width: 40px;
 }
 .navbar{
-    background-color: #ffffff38 !important;
+    background-color: #ffffff !important;
     padding: 0px;
 }
 
@@ -33,6 +33,9 @@ img{
     background-color: #7c7c7c56;
     
 
+}
+h1{
+    text-align: center;
 }
 
 h3{
@@ -44,5 +47,10 @@ h3{
 }
  
 .corbtn{
-    background-color: #04b2be !important; 
+    background-color: #ff4c05 !important; 
+    border: none;
 } 
+
+.btnperguntar{
+    background-color: blueviolet !important;
+}
