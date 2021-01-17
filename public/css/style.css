@@ -38,6 +38,10 @@ img{
 h3{
     text-align: center;
 }
+
+.textopergunta{
+    height: 250px !important;
+}
  
 .corbtn{
     background-color: #04b2be !important; 
