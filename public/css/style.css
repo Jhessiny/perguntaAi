@@ -12,11 +12,33 @@ img{
     width: 90px;
 } */
 
+
+.container{
+    max-width: 800px;
+}
+
 body{
-    background-color: #252525 !important;
-    color: #ffffff !important;
+    background-color: #1d1d1d;
+    color: #ffffff;
+}
+img{
+    width: 30px;
+}
+.navbar{
+    background-color: #ffffff38 !important;
+    padding: 0px;
+}
+
+.card{
+    background-color: #7c7c7c56;
+    
+
+}
+
+h3{
+    text-align: center;
 }
  
 .corbtn{
-    background-color: #05a7cf !important; 
+    background-color: #04b2be !important; 
 } 
