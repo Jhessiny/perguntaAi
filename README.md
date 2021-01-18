@@ -1,1 +1,1 @@
-<img width="45px" src="/public/img/askmeHome.png">
+<img width="500px" src="/public/img/askmeHome.png">
