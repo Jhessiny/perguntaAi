@@ -54,3 +54,8 @@ h3{
 .btnperguntar{
     background-color: #8a2be2 !important;
 }
+
+.container-md{
+    text-align: center !important;
+    align-items: center !important;
+}
